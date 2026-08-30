@@ -1,3 +1,6 @@
 venv/
 mlruns/
 mlflow.db
+.env
+/filenames.csv
+data/
